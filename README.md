@@ -1,7 +1,7 @@
 # turing-fullstack
 Build an awesome t-shirt shop
 
-*Overview*
+**Overview**
 
 In this challenge you will build an e-commerce system which allows users to search, add items to their shopping cart, 
 create order and checkout successfully. Given a database in MySQL, you will need to implement the backend and frontend 
